@@ -23,5 +23,8 @@ jobs:
           java-version: '21'
           cache: maven
 
-      - name: Build and test with Maven
-        run: mvn test
+      - name: Make Maven Wrapper executable
+        run: chmod +x mvnw
+
+      - name: Build and test with Maven Wrapper
+        run: ./mvnw test
