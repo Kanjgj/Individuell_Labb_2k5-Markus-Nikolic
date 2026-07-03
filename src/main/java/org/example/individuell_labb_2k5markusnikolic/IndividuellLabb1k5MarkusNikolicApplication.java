@@ -1,4 +1,4 @@
-package org.example.individuell_labb_1k5markusnikolic;
+package org.example.individuell_labb_2k5markusnikolic;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

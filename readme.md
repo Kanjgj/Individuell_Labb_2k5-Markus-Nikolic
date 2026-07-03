@@ -34,7 +34,7 @@ Projektet är utvecklat som en del av kursens individuella laboration om AI-inte
 src
 ├── main
 │   ├── java
-│   │   └── org.example.individuell_labb_1k5markusnikolic
+│   │   └── org.example.individuell_labb_2k5markusnikolic
 │   │       ├── controller
 │   │       │   └── AiController.java
 │   │       ├── service

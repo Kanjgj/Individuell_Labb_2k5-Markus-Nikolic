@@ -1,4 +1,4 @@
-package org.example.individuell_labb_1k5markusnikolic.service;
+package org.example.individuell_labb_2k5markusnikolic.service;
 
 import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.ObjectMapper;
